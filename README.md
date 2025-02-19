@@ -1,1 +1,1 @@
-# propersional-logic-First-Order-Logic
+# propersional-logic & First-Order-Logic
