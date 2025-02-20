@@ -58,4 +58,4 @@ Presentasi ini membahas konsep dasar logika proporsional dan logika predikat tin
 
 ---
 
-> **Catatan:** Jika ada tambahan atau revisi, silakan edit sesuai dengan kebutuhan!
+
